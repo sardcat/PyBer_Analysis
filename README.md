@@ -19,6 +19,11 @@ per Ride and per Driver, while Suburban routes sit comfortably in the middle. De
 Urban Rides performed constitute nearly half of the Total Fares.
 
 
+
 Figure 2. Total Fares by City Type over a 4 Month Period
 
 ![h](analysis/Fig8.png)
+
+Figure 2 showcases a four (4) month break down of Fare data by City Types. Urban and Suburban Total Fares experienced an increase coming out of Janurary, while 
+Rural routes opened with a small decline. All routes showed an uptick in Fares coming in to March, most likely due to spring weather; however Urban routes Fares then
+underwent mild volatility. Suburban routes began a noticable increase in Fares leading out of April.
