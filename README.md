@@ -15,8 +15,10 @@ Figure 1. PyBer Summary 2 by City Type
 
 Summarizing PyBer's data for 2019 by City Type, Total Rides, Total Drivers, Total Fares, Average Fare per Ride and Average Fare per Driver (Fig. 1) highlights
 some interesting trends. The number of Drivers and Rides performed in an Urban setting are orders of magnitude over Rural routes, yet yield the lowest Average Fare
-per Ride and per Driver while Suburban routes sit comfortably in the middle. Despite the low Average Fares for Rides and Drivers in Urban routes, the sheer number of
+per Ride and per Driver, while Suburban routes sit comfortably in the middle. Despite the low Average Fares for Rides and Drivers in Urban routes, the sheer number of
 Urban Rides performed constitute nearly half of the Total Fares.
 
+
+Figure 2. Total Fares by City Type over a 4 Month Period
 
 ![h](analysis/Fig8.png)
