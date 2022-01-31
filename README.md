@@ -10,6 +10,7 @@ request has been made.
 ## Results
 
 Figure 1. PyBer Summary 2 by City Type
+
 ![o](analysis/Fig9.png)
 
 
